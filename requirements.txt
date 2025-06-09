@@ -1,0 +1,7 @@
+langchain google_
+langchain-openai 
+langchain-community 
+langchain-core 
+requests 
+duckduckgo-search 
+jupyter ipywidgets
