@@ -1,7 +1,10 @@
 # Weather Bot
 
 Weather Data Agent Project
+
+
 Overview
+
 This project implements a weather data agent using Python, LangChain, and external APIs to fetch and process weather information and travel-related queries. The agent can answer questions about weather conditions in specific locations and provide travel information, such as ways to travel between cities.
 Features
 
